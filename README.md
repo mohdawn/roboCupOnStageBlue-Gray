@@ -56,7 +56,7 @@ Each robot runs its own program built around shared behavior modules:
 Each robot is themed around a bird that symbolizes a specific country's **identity, values, or heritage**. For example:
 
 * 🦅 **Falcon** for the **UAE** – symbolizing strength and vision.
-* 🦜 **Macaw ("Rio")** for **Brazil** – representing color, energy, and joy.
+* 🦜 **Parrot ("Rio")** for **Brazil** – representing color, energy, and joy.
 * 🕊️ Other birds may be added to expand the diversity of the performance.
 
 This initiative is designed to:
